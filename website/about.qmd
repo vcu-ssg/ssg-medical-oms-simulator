@@ -1,0 +1,5 @@
+---
+title: About SSG
+---
+
+(Add materials and possibly link to SSG website)

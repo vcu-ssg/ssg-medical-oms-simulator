@@ -1,0 +1,12 @@
+---
+title: OMS Prototype
+---
+
+Oral and Maxillofacial Surgeons Virtual Anathesia Prototype
+
+## Background documents
+
+[Initial presentation](./background/Oral%20and%20Maxillofacial%20Surgery%20Virtual%20Anesthesia%20Simulator.pdf)
+
+[Laryngospasm Pathway](./background/oms-laryngospasm-pathway.pdf)
+
